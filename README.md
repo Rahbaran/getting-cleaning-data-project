@@ -13,6 +13,6 @@ This is the final project of "Getting and Cleaning Data" hosted on Coursera by J
 
 ## How-to-manual
 
-1. [Download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) the data.
-2. IMPORTANT: Put ```run_analysis.R``` in the parent folder of ```UCI HAR Dataset```. The parent directory has to be your working directory (use  ```setwd()```).
-3. Run ```source("run_analysis.R")```
+1. [Download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) the data
+2. IMPORTANT: Put ```run_analysis.R``` in the parent folder of ```UCI HAR Dataset```. The parent directory has to be your working directory (use  ```setwd()```)
+3. Run ```source("run_analysis.R")``` in your IDE
